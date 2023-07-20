@@ -1,6 +1,3 @@
-# rust-scaffolding
-
-
 # Rust Scaffolding
 > Rust,vscode
 
